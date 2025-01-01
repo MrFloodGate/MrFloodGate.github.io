@@ -1,6 +1,6 @@
 # Mr. FloodGate's Portfolio
 
-Welcome! I am Mr. FloodGate, CEO of [Your Studio Name] and the creative force behind *The Elyk Covenant*, an ambitious 3D MMORPG/RTS currently in development. Explore my professional projects and profiles below.
+Welcome! I am Mr. FloodGate, CEO of [FloodGate] and the creative force behind *The Elyk Covenant*, an ambitious 3D MMORPG/RTS currently in development. Explore my professional projects and profiles below.
 
 ---
 
@@ -26,6 +26,7 @@ Welcome! I am Mr. FloodGate, CEO of [Your Studio Name] and the creative force be
 ---
 
 ## About Me
+I speak two languages, spanish as my native one and english as an fluent speaker.
 I am a seasoned game developer with extensive experience in crafting immersive, story-driven worlds and strategic gameplay experiences. My technical expertise spans procedural generation, multiplayer architecture, and integrating cutting-edge game design principles.
 
 *The Elyk Covenant* represents my vision of a fantasy universe where storytelling and strategy converge to offer players an unforgettable journey.
