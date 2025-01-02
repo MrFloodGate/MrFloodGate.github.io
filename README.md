@@ -14,7 +14,7 @@ Welcome! I am Mr. FloodGate, CEO of [FloodGate] and the creative force behind *T
 ---
 
 ## Professional Profiles
-- [LinkedIn](https://linkedin.com/in/floodgate)  
+- [LinkedIn](https://linkedin.com/in/isaac-mora-ontivero-122408344)  
   Connect with me professionally for updates, industry insights, and networking opportunities.
 
 - [GitHub](https://github.com/FloodGateDev)  
